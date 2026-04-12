@@ -1,4 +1,4 @@
-# PPG Arrhythmia Detector (AF Detection)
+# PPG Arrhythmia Detector (Atrial Fibrillation)
 
 A real-time arrhythmia detection system using PPG signals and a lightweight 1D CNN model, designed for edge deployment on Raspberry Pi.
 
