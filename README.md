@@ -119,6 +119,15 @@ python pi/step5_pi_inference.py
 A lightweight and efficient system for real-time AF detection using PPG signals, suitable for edge deployment.
 
 ---
+## Contributions
+
+### Jaisurya & Mahendra (ML Integration)
+
+- Integrated the 1D CNN model into the real-time PPG processing pipeline
+- Designed end-to-end inference workflow (preprocessing → model → prediction)
+- Optimized model loading and inference for Raspberry Pi deployment
+- Handled data flow between sensor input and prediction module
+- Performed testing and validation of real-time predictions
 
 ## Author
 Jaisurya, Mahendra Meena, Madhav Gupta, Aditya Yadav
