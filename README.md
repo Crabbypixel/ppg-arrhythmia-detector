@@ -121,4 +121,4 @@ A lightweight and efficient system for real-time AF detection using PPG signals,
 ---
 
 ## Author
-Jaisurya
+Jaisurya, Mahendra Meena, Madhav Gupta, Aditya Yadav
