@@ -130,4 +130,4 @@ A lightweight and efficient system for real-time AF detection using PPG signals,
 - Performed testing and validation of real-time predictions
 
 ## Author
-Jaisurya, Mahendra Meena, Madhav Gupta, Aditya Yadav
+Jaisurya, Madhav Gupta, Mahendra Meena, Aditya Yadav
